@@ -1,0 +1,19 @@
+.hidden
+{
+    display:none;
+}
+
+.overlay
+{
+    display:none;
+}
+
+.pinned
+{
+    background-color: pink;
+}
+
+.cell
+{
+    cursor: pointer;
+}
