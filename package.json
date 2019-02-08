@@ -1,0 +1,27 @@
+{
+  "name": "Sophia Setsu",
+  "version": "1.0.0",
+  "description": "randomized emoji moodboard",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sosezzu/emoji-moodboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sosezzu/emoji-moodboard/issues"
+  },
+  "homepage": "https://github.com/sosezzu/emoji-moodboard#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.9.0",
+    "eslint-plugin-mocha": "^5.2.0"
+  }
+}
